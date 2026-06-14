@@ -1,5 +1,13 @@
 # Prerequisites
 *.d
+# Project-specific runtime files
+customers.txt
+catalog.txt
+sessions.txt
+blocked_cnics.txt
+*.png
+*.jpg
+studio
 
 # Compiled Object files
 *.slo
